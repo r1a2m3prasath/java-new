@@ -6,7 +6,7 @@ public static void main(String args[])
 		System.out.println(a);
 		if(a%4==0)
 			{
-			System.out.println("its leap");
+			System.out.println("its leap year");
 			}
 		else
 			{
